@@ -1,0 +1,87 @@
+
+#login-body {
+    background-color: white;
+
+}
+
+.box-title {
+    display: flex;
+    background-repeat: no-repeat;
+	justify-content: center;
+}
+
+#title {
+    background-color: #1BFAB9;
+    opacity: 0.8;
+    width: 500px;
+    height:120px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1%;
+}
+
+header{
+    background-image: url('cloud-sky.jpg');
+    background-size: cover;
+	background-position: center;
+	height: 700px;
+	display: flex;
+	background-repeat: no-repeat;
+	justify-content: center;
+    margin-top: 6.5%;
+}
+
+#login {
+    width: 300px;
+}
+
+#home-body {
+    background-color: #D2D3C3;
+}
+
+#home-header {
+    background-image: url('night.jpg');
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+	justify-content: center;
+    margin-top: -20%;
+    height: 700px;
+    z-index: -1;
+    display: flex;
+
+}
+
+nav {
+    background-color: #F9E2AF;
+    opacity: 0.8;
+}
+
+nav a {
+    color: #393646;
+    padding : 29px;
+    text-decoration: none;
+
+}
+
+nav a:hover {
+  background-color: #F4B183;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav ul li {
+    float: left;
+    padding: 20px;
+}
+
+p {
+    margin-top: 4%;
+    margin-left: 5%;
+}
